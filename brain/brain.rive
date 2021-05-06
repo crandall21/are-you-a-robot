@@ -1,24 +1,86 @@
 ! version = 2.0
 
-+ hullo
-- Hullo, what is your name?
-
-+ _
-% hello what is your name
-- Nice to meet you <formal>!
++ hello
+- Hello, I am an activity generator. What is your name?
 
 + my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
+- Nice to meet you <star>! How can I help you today?
 
-+ thank you
-- You are welcome
-- Welcome
-- No problem
-- No worries!
++ [*] to do [*]
+- Ok! Do you want to stay at home?
+
++ yes
+% Ok! Do you want to stay at home?
+- Okay, let me think of some ideas {topic=stay at home}
+
+> topic stay at home
 
 + *
-- Sorry did not get what you said
+- You could read a book
+- You could search for new music to listen to
+- You could clean
+- You could re-organise
+- You could watch a documentary
+- You could start a new boxset
+- You could bake a cake
+- You could start to learn a new language on DuoLingo
+- You could make cookies
+- You could play a video game
+- You could make popcorn and have a movie marathon
+- You could learn how to play chess 
+- You could teach yourself how to juggle
+- You could
+
++ [*] idea [*]
+- You could read a book
+- You could search for new music to listen to
+- You could clean
+- You could re-organise
+- You could watch a documentary
+- You could start a new boxset
+- You could bake a cake
+- You could start to learn a new language on DuoLingo
+- You could make cookies
+- You could play a video game
+- You could make popcorn and have a movie marathon
+- You could learn how to play chess 
+- You could teach yourself how to juggle
+- You could
+
+< topic
+
++ no
+- Alright, let me think of some ideas for you to go out and do! {topic=go out}
+
+> topic go out
+
++ *
+- You could go to the park
+- You could go to the cinema
+- You could go to an art exhibition
+- You could go shopping
+- You could explore a new area
+- You could go for some food & a catch up with a friend
+- You could go for a walk
+- You could go to the beach
+- You could go bowling
+
++ [*] idea [*]
+- You could go to the park
+- You could go to the cinema
+- You could go to an art exhibition
+- You could go shopping
+- You could explore a new area
+- You could go for some food & a catch up with a friend
+- You could go for a walk
+- You could go to the beach
+- You could go bowling
+
+< topic
+
++ [*] thank you [*]
+- No problem!
+
++ [*]
+- Sorry, I do not get what you said
 - I am afraid that I can not understand you
-- Sorry can you please elaborate that for me
-- I don't get it!
