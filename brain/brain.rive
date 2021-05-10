@@ -10,7 +10,6 @@
 - Ok! Do you want to stay at home?
 
 + yes
-% Ok! Do you want to stay at home?
 - Okay, let me think of some ideas {topic=stay at home}
 
 > topic stay at home
@@ -29,7 +28,18 @@
 - You could make popcorn and have a movie marathon
 - You could learn how to play chess 
 - You could teach yourself how to juggle
-- You could
+- You could make a meal for you and your familu
+- You could start a new art piece
+- You could start writing a book or article
+- You could create a scrapbook
+- You could start a new hobby
+- You could complete a puzzle
+- You could try to train your pet
+- You could declutter your wardrobe
+- You could watch livestream/tours of other places
+- You could play card games
+- You could make cocktails
+- You could start working out
 
 + [*] idea [*]
 - You could read a book
@@ -45,7 +55,18 @@
 - You could make popcorn and have a movie marathon
 - You could learn how to play chess 
 - You could teach yourself how to juggle
-- You could
+- You could make a meal for you and your familu
+- You could start a new art piece
+- You could start writing a book or article
+- You could create a scrapbook
+- You could start a new hobby
+- You could complete a puzzle
+- You could try to train your pet
+- You could declutter your wardrobe
+- You could watch livestream/tours of other places
+- You could play card games
+- You could make cocktails
+- You could start working out
 
 < topic
 
@@ -63,7 +84,14 @@
 - You could go for some food & a catch up with a friend
 - You could go for a walk
 - You could go to the beach
-- You could go bowling
+- You could go bowling 
+- You could go for drinks
+- You could go to a café
+- You could go for a run
+- You could go out and find somewhere nice to read a book
+- You could have a picnic
+- You could go out and take pictures
+- You could go out and play a sport
 
 + [*] idea [*]
 - You could go to the park
@@ -75,6 +103,13 @@
 - You could go for a walk
 - You could go to the beach
 - You could go bowling
+- You could go for drinks
+- You could go to a café
+- You could go for a run
+- You could go out and find somewhere nice to read a book
+- You could have a picnic
+- You could go out and take pictures
+- You could go out and play a sport
 
 < topic
 
