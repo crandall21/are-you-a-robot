@@ -10,11 +10,11 @@
 - Ok! Do you want to stay at home?
 
 + yes
-- Okay, let me think of some ideas {topic=stay at home}
+- Okay, let me think of some ideas{topic=home}
 
-> topic stay at home
+> topic home
 
-+ *
++ ok
 - You could read a book
 - You could search for new music to listen to
 - You could clean
@@ -68,12 +68,17 @@
 - You could make cocktails
 - You could start working out
 
-< topic
++ [*] good [*]
+- You're welcome{topic=random}
+
+ < topic
+
+
 
 + no
-- Alright, let me think of some ideas for you to go out and do! {topic=go out}
+- Alright, let me think of some ideas for you to go out and do!{topic=out}
 
-> topic go out
+> topic out
 
 + *
 - You could go to the park
@@ -110,6 +115,9 @@
 - You could have a picnic
 - You could go out and take pictures
 - You could go out and play a sport
+
++ [*] good [*]
+- You're welcome{topic=random}
 
 < topic
 
