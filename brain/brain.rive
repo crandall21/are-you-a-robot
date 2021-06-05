@@ -10,7 +10,7 @@
 + * 
 - Ok! I can give you some suggestions. Do you want to stay at home?
 
-+ yes
++ [*] yes [*]
 - Okay, let me think of some ideas{topic=home}
 
 < topic home
@@ -82,7 +82,7 @@
 - Start off by de-cluttering, then dust/polish any surfaces and finish by mopping or hoovering the floor
 
 + * 
-% you could re-organise
+% you could reorganise
 - I'm sure you have a junk drawer or your wardrobe is overflowing
 
 + *
@@ -236,7 +236,7 @@
 - There are lots of apps out there to help you get around, like citymapper! If you're based in London, this website offers suggestions for places to visit: https://handluggageonly.co.uk/2018/10/24/15-of-the-best-areas-in-london-you-have-to-visit/ 
 
 + *
-% you could go for some food & a catch up with a friend
+% you could go for some food a catch up with a friend
 - Maybe try reaching out to a friend you haven't spoken to in a while!
 
 + *
@@ -268,7 +268,7 @@
 - You could go to a cafe, or a park. This website helps you find your nearest park: https://www.gov.uk/find-your-local-park 
 
 + *
-% You could have a picnic
+% you could have a picnic
 - It doesn't have to take much planning! You can use leftovers or even stop by a takeaway!
 
 + *
